@@ -1,0 +1,1 @@
+python detect_csv.py --weights yolov7_custom2.pt --save-txt --conf 0.25 --img-size 640 --source video.mp4
